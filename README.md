@@ -39,8 +39,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</div>
+
 <h3>
 HI guys, how are you? I'm Leticia, i'm 17 years old and i live in Brazil, i'm beginner dev. 
 I'm learning several languages but the one i'm currently focusing on masteringis JavasScript
 </h3>
+</div>
