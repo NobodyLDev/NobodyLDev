@@ -38,7 +38,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-NobodyDev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: leticiaschiffel11@gmail.com"/>
 </a>
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<a href="https://discord.gg/kh5qGNQP">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+</a>
+<br>
 
 <h3>
 HI guys, how are you? I'm Leticia, i'm 17 years old and i live in Brazil, i'm beginner dev. 
