@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50"/>
 </div>
 
+<h2 align="center">technologies that I know <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
