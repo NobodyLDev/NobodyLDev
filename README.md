@@ -27,6 +27,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50"/> 
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 <h3>
 Hello everyone! My name is Letícia Schiffel Mariano, I'm 19 years old, and I am currently an IT student focused on Systems Development, with a main interest in Front-End, studying ADS at FATEC. 
