@@ -3,11 +3,6 @@
  <h1>HEY, I’m @NobodyLDev</h1>
 
 
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-
-
 <h2 align="center">Technologies i'm learning <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <div align="center" display="flex">
