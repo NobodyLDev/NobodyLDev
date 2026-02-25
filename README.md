@@ -32,13 +32,3 @@
 
 <br> 
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> </div> 
-
-<h3 align="center">
-Hello everyone! My name is Letícia Schiffel Mariano, I'm 19 years old, and I am currently an IT student focused on Systems Development, with a main interest in Front-End, studying ADS at FATEC. 
-
-I have experience with HTML, CSS, JavaScript, React, React Native, Angular, C#, Node.js, and MongoDB, and I am always exploring new technologies and development best practices.
-
-I enjoy turning ideas into functional interfaces, always aiming to combine design, usability, and clean code. Currently, I have been developing projects involving web and mobile applications and API integration
-</h3>
-</div>
