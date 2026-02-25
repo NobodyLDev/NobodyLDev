@@ -8,9 +8,7 @@
  
  <a href="https://www.linkedin.com/in/let%C3%ADcia-schiffel/">
  <a href="mailto:schiffelleticia7@gmail.com">
- <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
- </a>
-  
+ <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/> </a>
  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/></a>
 
 <h2 align="center">Technologies i'm learning <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
