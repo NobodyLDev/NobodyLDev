@@ -1,7 +1,7 @@
 
 <div align="center">
  <h1>HEY, I’m @NobodyLDev</h1>
-<img src="https://br.pinterest.com/pin/985231164673555/">
+<img src="https://pin.it/5vjfFzGdO">
  <h2 align="center">contact me</h2>
  <a href="https://www.linkedin.com/in/let%C3%ADcia-schiffel/">
  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/></a>
