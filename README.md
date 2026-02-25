@@ -5,9 +5,12 @@
   <img align="center" src="baixados.jpeg"/>
 
  <h2 align="center">contact me</h2>
+ 
  <a href="https://www.linkedin.com/in/let%C3%ADcia-schiffel/">
-  <a href="mailto:schiffelleticia7@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/></a>
+ <a href="mailto:schiffelleticia7@gmail.com">
+ <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
+ </a>
+  
  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/></a>
 
 <h2 align="center">Technologies i'm learning <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -31,7 +34,7 @@
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> </div> 
 
-<h3>
+<h3 align="center">
 Hello everyone! My name is Letícia Schiffel Mariano, I'm 19 years old, and I am currently an IT student focused on Systems Development, with a main interest in Front-End, studying ADS at FATEC. 
 
 I have experience with HTML, CSS, JavaScript, React, React Native, Angular, C#, Node.js, and MongoDB, and I am always exploring new technologies and development best practices.
