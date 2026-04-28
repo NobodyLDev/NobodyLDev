@@ -29,6 +29,11 @@
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="45"/ >
 <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="50"/> 
 
+<br>
+  <h1> Minhas contribuições:</h1>
 
-<br> 
+  ![](https://github-readme-stats.vercel.app/api?username=masaishi-pessoa&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=masaishi-pessoa&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masaishi-pessoa&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
