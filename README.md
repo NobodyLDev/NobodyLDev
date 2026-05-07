@@ -10,7 +10,13 @@
  <a href="mailto:schiffelleticia7@gmail.com">
  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/> </a>
  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/></a>
-
+ 
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=NobodyLDev&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=NobodyLDev&layout=compact&theme=radical&count_private=true">
+  <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NobodyLDev&theme=radical"/>
+ 
+</div>
 <h2 align="center">Technologies i'm learning <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <div align="center" display="flex">
